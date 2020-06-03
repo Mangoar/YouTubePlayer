@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouTube Player</string>
+    <string name="edit_text_default">Paste your link here</string>
+</resources>
